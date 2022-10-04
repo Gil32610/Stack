@@ -26,5 +26,8 @@ public class Stack<T> {
     public boolean isFull() {
         return false;
     }
+    public T top(){
+        return this.top.getContent();
+    }
 
 }
