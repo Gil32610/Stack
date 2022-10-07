@@ -1,4 +1,4 @@
-package lib;
+package lib.br.unicap.edi.ana;
 
 public class LSENode<T> {
     private LSENode<T> next;
